@@ -1,3 +1,3 @@
-This repository has no purpose other than to see what happens when I do stuff in GIT.
+This repository has no purpose other than to see what happens when I do stuff in GIT and to give people a repository where they can use the issues as a to-do list for me.
 
-When I add this text, the size should either increase by a little (maybe 3?) or a lot (like double)
+
